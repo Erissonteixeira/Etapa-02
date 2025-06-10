@@ -1,5 +1,6 @@
 Estrutura de Repetição
 Usar for
+______________________________
 5) Construa a tabuada de um número. (ex: 1x1=1, 
 1x2=2,...,1x10=10);
 6) Gere 10 números aleatórios entre 0 e 100; mostre todos na tela 
